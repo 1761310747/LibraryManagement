@@ -1,0 +1,21 @@
+E:\VS Working\其他\图书管理\LibraryManagement\LibraryManagement\bin\Library.dll.config
+E:\VS Working\其他\图书管理\LibraryManagement\LibraryManagement\bin\Library.dll
+E:\VS Working\其他\图书管理\LibraryManagement\LibraryManagement\bin\Library.pdb
+E:\VS Working\其他\图书管理\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+E:\VS Working\其他\图书管理\LibraryManagement\LibraryManagement\obj\Debug\Library.dll
+E:\VS Working\其他\图书管理\LibraryManagement\LibraryManagement\obj\Debug\Library.pdb
+E:\VS Working\其他\图书管理\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csprojAssemblyReference.cache
+E:\VS Working\其他\图书管理\修改图书馆样式\LibraryManagement\LibraryManagement\bin\Library.dll.config
+E:\VS Working\其他\图书管理\修改图书馆样式\LibraryManagement\LibraryManagement\bin\Library.dll
+E:\VS Working\其他\图书管理\修改图书馆样式\LibraryManagement\LibraryManagement\bin\Library.pdb
+E:\VS Working\其他\图书管理\修改图书馆样式\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+E:\VS Working\其他\图书管理\修改图书馆样式\LibraryManagement\LibraryManagement\obj\Debug\Library.dll
+E:\VS Working\其他\图书管理\修改图书馆样式\LibraryManagement\LibraryManagement\obj\Debug\Library.pdb
+E:\VS Working\其他\图书管理\修改图书馆样式\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.AssemblyReference.cache
+C:\Users\17613\Desktop\C#\LibraryManagement\LibraryManagement\bin\Library.dll.config
+C:\Users\17613\Desktop\C#\LibraryManagement\LibraryManagement\bin\Library.dll
+C:\Users\17613\Desktop\C#\LibraryManagement\LibraryManagement\bin\Library.pdb
+C:\Users\17613\Desktop\C#\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.AssemblyReference.cache
+C:\Users\17613\Desktop\C#\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\17613\Desktop\C#\LibraryManagement\LibraryManagement\obj\Debug\Library.dll
+C:\Users\17613\Desktop\C#\LibraryManagement\LibraryManagement\obj\Debug\Library.pdb
